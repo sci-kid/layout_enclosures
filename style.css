@@ -1,0 +1,33 @@
+.our-body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.box {
+  margin: 20px;
+  margin-bottom: 40px;
+  border: 1px solid red;
+  width: 348px;
+}
+
+.blue-border {
+  border: 10px solid #308dc0;
+}
+
+.red-border {
+  border: 1px solid red;
+}
+
+.yellow-border {
+  border: 10px solid #ffa500;
+}
+
+.inner-text {
+  padding: 10px;
+  border: 1px solid red;
+  background-color: #ddd;
+  font-size: 16.2px;
+  font-family: "Times New Roman";
+  line-height: 18px;
+}
