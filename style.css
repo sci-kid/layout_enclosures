@@ -1,13 +1,10 @@
-.our-body {
-  margin: 0;
-  padding: 0;
+body {
   background-color: black;
 }
 
 .box {
-  margin: 20px;
-  margin-bottom: 40px;
-  border: 1px solid red;
+  margin: 20px 12px 40px;
+  border: 1px solid #e75551;
   width: 348px;
 }
 
@@ -16,7 +13,7 @@
 }
 
 .red-border {
-  border: 1px solid red;
+  border: 1px solid #e75551;
 }
 
 .yellow-border {
@@ -25,9 +22,6 @@
 
 .inner-text {
   padding: 10px;
-  border: 1px solid red;
+  border: 1px solid #e75551;
   background-color: #ddd;
-  font-size: 16.2px;
-  font-family: "Times New Roman";
-  line-height: 18px;
 }
